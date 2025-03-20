@@ -1,0 +1,9 @@
+Capturing Phase
+The event stsrts from the root of the DOM and goes down to the target Element
+
+Target Phase
+The event reaches the target Element
+
+
+Bubbling Phase
+The event starts from the target element and bubbles up to the too of the DOM
